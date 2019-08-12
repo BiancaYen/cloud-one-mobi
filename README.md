@@ -7,7 +7,7 @@ In the project directory, you can run:
 ### `yarn run dev`
 
 Runs the Node server in development mode.<br>
-Open [http://localhost:4000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:4000](http://localhost:4000) to view it in the browser.
 Unfortunately no hot-reloading has been implemented on the client side.
 
 ## Architecture
